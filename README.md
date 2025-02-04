@@ -1,4 +1,4 @@
-# slocket
+# Slocket
 
 A locking socket alternative to file-system mutex locks
 
